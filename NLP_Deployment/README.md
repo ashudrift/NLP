@@ -1,2 +1,1 @@
-# NLP
-NLP Algorithms implementations
+ docker build -t flask-sentiment-analysis-app .
